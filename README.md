@@ -1,5 +1,7 @@
 # Covid-19 Recognition using Chest X-ray Images
 ConvNet based Deep Covid-19 Recognition using Chest X-ray Images
+<br />
+Kaggle notebook: https://www.kaggle.com/code/thura1601/covid19-xray-w-ml-and-dl
 
 ## Introduction
 
@@ -7,6 +9,19 @@ ConvNet based Deep Covid-19 Recognition using Chest X-ray Images
 A team of researchers from Qatar University, Doha, Qatar, and the University of Dhaka, Bangladesh along with their collaborators from Pakistan and Malaysia in collaboration with medical doctors have created a database of chest X-ray images for COVID-19 positive cases along with Normal and Viral Pneumonia images. This COVID-19, normal, and other lung infection dataset is released in stages. 
 
 - Dataset Link: https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database
+
+Normal :  10192
+Covid :  3616
+Opacity :  6012
+VIral Pneumonia :  1345
+
+| Type | # of Images |
+| --- | ---: |
+|Normal | 10192|
+|Covid | 3616|
+|Opacity | 6012|
+|Viral Pneumonia | 1345|
+|**Total** |**21175** |
 
 Cite these papers for the dataset
 
