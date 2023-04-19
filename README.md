@@ -15,15 +15,15 @@ Cite these papers for the dataset
 
 ## Evaluation
 
-| Model | Accuracy ( %) |
-| --- | ---: |
-| Naive Bayes | |
-| Support Vector Machine |  |
-| Random Forest | |
-| XGBoost | |
-| Multilayer Perceptron | |
-| ConvNet | |
-| EfficientNetB7 | |
+| Model | Accuracy | Precision | Recall |
+| --- | ---: | ---: | ---: |
+| Naive Bayes | | | |
+| Support Vector Machine |  | | |
+| Random Forest | | | |
+| XGBoost | | | |
+| Multilayer Perceptron | | | |
+| ConvNet | | | |
+| EfficientNetB7 | | | |
 
 ## References
 - Scikit-learn: Machine Learning in Python, Pedregosa et al., JMLR 12, pp. 2825-2830, 2011.
