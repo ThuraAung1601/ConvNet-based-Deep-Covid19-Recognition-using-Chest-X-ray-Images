@@ -23,7 +23,7 @@ The following Table is the description of the numbers of X-ray images per each c
 
 This figure shows two pictures per each class in the dataset.
 
- ![classes](images/xray_covid.png)
+ ![classes](images/chest.png)
 
 Please cite these papers for the dataset
 
