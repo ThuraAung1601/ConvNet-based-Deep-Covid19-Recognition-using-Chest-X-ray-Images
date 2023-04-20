@@ -1,5 +1,5 @@
 # Covid-19 Recognition using Chest X-ray Images
-ConvNet based Deep Covid-19 Recognition using Chest X-ray Images
+Covid-19 Recognition with Chest X-ray Images using ML and DL methods
 <br />
 Kaggle notebook: https://www.kaggle.com/code/thura1601/covid19-xray-w-ml-and-dl
 
