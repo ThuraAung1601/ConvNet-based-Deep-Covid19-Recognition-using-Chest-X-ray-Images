@@ -111,3 +111,8 @@ Although the accuracy was normally used to evaluate the classification models, o
 - TensorFlow: Large-scale machine learning on heterogeneous systems; Abadi et al., 2015. Software available from tensorflow.org.
 - Thuseethan, S., Wimalasooriya, C., & Vasanthapriyan, S. (2022). Deep COVID-19 Recognition using Chest X-ray Images: A Comparative Analysis. ArXiv. https://doi.org/10.1109/SLAAI-ICAI54477.2021.9664727 
 - https://towardsdatascience.com/how-precision-and-recall-affect-the-anti-covid-measures-38d625de61d9
+
+## To do
+- Training SOTA models
+- Transfer learning with pretrained SOTA models
+- Visual interpretation of the best model outputs
